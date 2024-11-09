@@ -12,7 +12,17 @@ Além disso, o estudo destaca a importância de abordar o problema de classes de
 
 O estudo também aplicou a técnica de Importância de Características por Permutação para identificar as características mais importantes para os modelos de aprendizado de máquina, destacando que as unidades curriculares aprovadas no segundo semestre, o curso e as taxas de matrícula em dia são características importantes em todos os algoritmos analisados.
 
-NOSSO TRABALHO, FOI APLICAR ML PARA TESTAR AS HIPÓTESE LEVANTADAS NESTES ARTIGO SOBRE O PROBLEMA DE MULTICLASSES. Antes disso, foi feito um conjunto de analises que são demostradas no notebook.
+NOSSO TRABALHO, FOI APLICAR ML PARA TESTAR AS HIPÓTESE LEVANTADAS NESTES ARTIGO SOBRE O PROBLEMA DE MULTICLASSES. Antes disso, foi feito um conjunto de analises que são demostradas no notebook onde os resultados foram:
+
+precision    recall  f1-score   support
+
+  Desistente       0.86      0.74      0.80       213
+    Graduado       0.82      0.85      0.83       332
+ Matriculado       0.49      0.56      0.52       119
+
+    accuracy                           0.76       664
+   macro avg       0.72      0.72      0.72       664
+weighted avg       0.77      0.76      0.77       664
 
 
 
