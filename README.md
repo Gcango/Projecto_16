@@ -12,7 +12,7 @@ Além disso, o estudo destaca a importância de abordar o problema de classes de
 
 O estudo também aplicou a técnica de Importância de Características por Permutação para identificar as características mais importantes para os modelos de aprendizado de máquina, destacando que as unidades curriculares aprovadas no segundo semestre, o curso e as taxas de matrícula em dia são características importantes em todos os algoritmos analisados.
 
-NOSSO TRABALHO, FOI APLICAR ML PARA TESTAR AS HIPTESE LEVANTADAS NESTES ARTIGO SOBRE O PROBLEMA DE MULTICLASSES. Antes disso, foi feito um conjunto de analises que são demostradas no notebook.
+NOSSO TRABALHO, FOI APLICAR ML PARA TESTAR AS HIPÓTESE LEVANTADAS NESTES ARTIGO SOBRE O PROBLEMA DE MULTICLASSES. Antes disso, foi feito um conjunto de analises que são demostradas no notebook.
 
 
 
